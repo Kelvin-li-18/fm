@@ -386,7 +386,7 @@ function App() {
             },
             {
               type: 'math',
-              text: '\\( v_{guided} = v_{c} + \\gamma (v_{c} - v_{u}) \\)'
+              text: '\\( v_{guided} = v_{u} + \\gamma (v_{c} - v_{u}) \\)'
             },
             {
               type: 'paragraph',
